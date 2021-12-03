@@ -15,8 +15,8 @@ Minimum PHP 8.0
 ## Setup
 
 - [Step1: Clone]().
-Step2: Composer install
-Step3: php artisan key:generate && php artisan optimize:clear && php artisan congif:clear && php artisan storage:link && php artisan migrate
+- [Step2: Composer install]().
+- [Step3: php artisan key:generate && php artisan optimize:clear && php artisan congif:clear && php artisan storage:link && php artisan migrate]().
 
 
 
